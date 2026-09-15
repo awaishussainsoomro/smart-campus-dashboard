@@ -98,7 +98,7 @@ df = generate_data()
 # Header
 # ------------------------------------------------------------
 st.title("🎓 Smart Campus Analytics")
-st.caption("What Makes Students Successful? — Interactive Dashboard by Awais Hussain")
+st.caption("What Makes Students Successful? | Interactive Dashboard by Awais Hussain")
 
 # ------------------------------------------------------------
 # Sidebar filters
