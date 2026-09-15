@@ -2,7 +2,7 @@
 
 An interactive data analysis dashboard exploring what drives student success | built on a synthetic dataset of 500 students with deliberately engineered correlations between study habits, work hours, sleep, and academic performance.
 
-**🔗 Live demo:** [(https://smart-campus-dashboard-d25s24j6kmawh8cq9fzblu.streamlit.app/)]
+**🔗 Live demo:** (https://smart-campus-dashboard-d25s24j6kmawh8cq9fzblu.streamlit.app/)
 
 ---
 
